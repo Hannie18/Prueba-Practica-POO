@@ -1,0 +1,51 @@
+=====================================================================
+             REPORTE ACADEMICO DE LA NOMINA
+=====================================================================
+Fecha: 13/05/2026 | Lenguaje: C++
+---------------------------------------------------------------------
+ESTUDIANTE                                   PROMEDIO
+---------------------------------------------------------------------
+ACOSTA SOLIS HANNA AIDE                      8.40
+ANDRADE SANCHEZ HUGO ALEXANDER               10.00
+ATIENCIA CHERRES JOSUE ALEXANDER             7.00
+BALAREZO PEREZ DIEGO SEBASTIAN               5.00
+BARRIONUEVO MONTESDEOCA JOB GABRIEL          7.40
+BEDOYA MAZO JUAN MANUEL                      9.00
+BRAVO LOPEZ JORDAN SAMUEL                    7.60
+CAJIAO VALDIVIESO PAULO ALESSANDRO           8.20
+CALVOPIÑA HERRERA BRANDON ISRAEL             6.60
+CASTELO BERRONES KATHERINE NICOL             8.20
+CHACHA CHANGO VICTOR MANUEL                  9.60
+CHILUIZA QUISHPE DIEGO STEED                 6.40
+DOMINGUEZ LESCANO DANIEL SEBASTIAN           8.60
+FREIRE AREBALO ALAN ANDERSON                 7.60
+GUALLE AUCANSHALA ABISAG LISENIA             8.80
+GUAMAN CHANAHUANO HAMILTON ALEXANDER         7.00
+GUANGA ALTAMIRANO EDWIN SEBASTIAN            8.80
+GUANOTOA ESCOBAR KARLA LEONELA               6.40
+LANDETA TAPIA EDISON PAUL                    7.80
+LARA BALSECA KAREN ARACELY                   0.00
+LOOR VELEZ JHON ALEJANDRO                    4.40
+LOPEZ SANCHEZ WASHINGTON STEVEN              5.40
+MIRANDA GARCES ALAN IMANOL                   6.80
+MONAR PARCO JHAIR ALEXANDER                  7.60
+MUYULEMA MOYOLEMA MATEO ALEXANDER            8.60
+NARVAEZ GAVILANES ANTONELLA NICOLE           8.80
+NUÑEZ ESPIN BRYAN SEBASTIAN                  8.00
+PILCO FLORES MARIO DAVID                     8.00
+POMAQUERO CHANGO KATHERINE SOLEDAD           9.00
+QUEVEDO AJON GINA ANAHI                      3.20
+RIVADENEYRA ULLOA MATIAS SEBASTIAN           5.60
+ROCHA ROCHA CAROLINA ESTEFANIA               8.40
+SANCHEZ LEMA ISAAC ADRIAN                    6.00
+SEGOVIA GARCIA JOSEPH ANDRE                  6.60
+SUPE GARCES JOAN SEBASTIAN                   7.80
+TOAPANTA IZA KEVIN MATIAS                    8.20
+VERDESOTO AZOGUE KEVIN ALEXANDER             5.60
+VILLACRES TOALOMBO JOSUE ALEJANDRO           5.80
+VITERI CAMINO MAYDELIN SHANTAL               7.80
+---------------------------------------------------------------------
+RESUMEN FINAL DEL CURSO:
+Nota Mayor Total: 10.00 (ANDRADE SANCHEZ HUGO ALEXANDER)
+Nota Menor Total: 0.00 (LARA BALSECA KAREN ARACELY)
+=====================================================================
